@@ -51,7 +51,7 @@ export function constructMetadata({
       ],
     },
     icons,
-    metadataBase: new URL('https://baiturgus-tan.vercel.app'), //add real site
+    metadataBase: new URL('https://baiturgus-rvxc.vercel.app'), //add real site
     ...(noIndex && {
       robots: {
         index: false,
